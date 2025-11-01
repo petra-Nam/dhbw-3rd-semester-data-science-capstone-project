@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+data/*.csv
+data/*.pkl
+data/*.pkl
+data/*.xlsx
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc
