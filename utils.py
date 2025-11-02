@@ -30,4 +30,3 @@ def save_dataframe(df: pd.DataFrame, name: str, folder: str = "data"):
 
     df.to_csv(path, index=False)
     print("DataFrame saved successfully.")
-    return path
